@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Marco Parola 🚀
+![Header](./github-header-image.png)
 
 
 I'm a Ph.D. candidate at the Department of Information Engineering at the University of Pisa 🎓 I'm passionate about harnessing the power of AI, deep learning, and everything tech-related to create cool stuff and solve real-world problems. 🤖
