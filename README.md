@@ -6,10 +6,8 @@ I'm a Ph.D. candidate at the Department of Information Engineering at the Univer
 
 ## Tech Stack 🛠️
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
-/>
+
+[]("https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css")
 
 - 🔮 Python, Java, C/C++ - trusty coding companions
 - 🖥️ Machine Learning and Deep Learning
@@ -18,9 +16,12 @@ I'm a Ph.D. candidate at the Department of Information Engineering at the Univer
 
 My strongest tricks up my sleeve
 
-<i class="ci ci-python ci-4x"></i>
-<i class="ci ci-pytorch ci-4x"></i>
-<i class="ci ci-git ci-4x"></i>
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/python.svg" alt="Python Logo" width="60" height="60" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/pytorch.svg" alt="PyTorch Logo" width="60" height="60" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV Logo" width="60" height="60" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/git.svg" alt="Git Logo" width="60" height="60" /> 
+
+
 
 ## Hobbies 🌴
 
@@ -34,11 +35,9 @@ When I'm not glued to my keyboard, you can find me:
 
 Feel free to reach out if you want to chat about tech or research project! Let's code together! 💻🚀
 
-<a href="https://www.linkedin.com/in/marco-parola-5269a1121/"><i class="ci ci-linkedin ci-2x"></i></a> &nbsp; &nbsp; 
-<a href="mailto:marcoparola96@gmail.com"><i class="ci ci-gmail ci-2x"></i></a> &nbsp; &nbsp;
-<a href="https://telegram.me/parola_marco"><i class="ci ci-telegram2 ci-2x"></i></a>
-
-
+<a href="https://www.linkedin.com/in/marco-parola-5269a1121/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" alt="Linkedin Logo" width="35" height="35" /></a> &nbsp; &nbsp; 
+<a href="mailto:marcoparola96@gmail.com"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" alt="Gmail Logo" width="35" height="35" /></a> &nbsp; &nbsp;
+<a href="https://telegram.me/parola_marco"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/telegram2.svg" alt="Telegram Logo" width="35" height="35" /></a>
 
 
 
