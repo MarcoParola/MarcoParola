@@ -16,10 +16,10 @@ I'm a Ph.D. candidate at the Department of Information Engineering at the Univer
 
 My strongest tricks up my sleeve
 
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/python.svg" alt="Python Logo" width="60" height="60" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/pytorch.svg" alt="PyTorch Logo" width="60" height="60" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV Logo" width="60" height="60" /> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/git.svg" alt="Git Logo" width="60" height="60" /> 
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/python.svg" alt="Python Logo" width="40" height="40" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/pytorch.svg" alt="PyTorch Logo" width="40" height="40" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV Logo" width="40" height="40" /> &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/git.svg" alt="Git Logo" width="40" height="40" /> 
 
 
 
@@ -35,9 +35,9 @@ When I'm not glued to my keyboard, you can find me:
 
 Feel free to reach out if you want to chat about tech or research project! Let's code together! 💻🚀
 
-<a href="https://www.linkedin.com/in/marco-parola-5269a1121/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" alt="Linkedin Logo" width="35" height="35" /></a> &nbsp; &nbsp; 
-<a href="mailto:marcoparola96@gmail.com"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" alt="Gmail Logo" width="35" height="35" /></a> &nbsp; &nbsp;
-<a href="https://telegram.me/parola_marco"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/telegram2.svg" alt="Telegram Logo" width="35" height="35" /></a>
+<a href="https://www.linkedin.com/in/marco-parola-5269a1121/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" alt="Linkedin Logo" width="30" height="30" /></a> &nbsp; &nbsp; 
+<a href="mailto:marcoparola96@gmail.com"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" alt="Gmail Logo" width="30" height="30" /></a> &nbsp; &nbsp;
+<a href="https://telegram.me/parola_marco"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/telegram2.svg" alt="Telegram Logo" width="30" height="30" /></a>
 
 
 
