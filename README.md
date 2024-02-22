@@ -33,7 +33,7 @@ When I'm not glued to my keyboard, you can find me:
 
 ## Let's Connect 🌐
 
-Feel free to reach out if you want to chat about tech or research project! Let's code together! 💻🚀
+Feel free to reach out if you want to chat about tech or research projects! Let's code together! 💻🚀
 
 <a href="https://www.linkedin.com/in/marco-parola-5269a1121/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" alt="Linkedin Logo" width="30" height="30" /></a> &nbsp; &nbsp; 
 <a href="mailto:marcoparola96@gmail.com"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" alt="Gmail Logo" width="30" height="30" /></a> &nbsp; &nbsp;
