@@ -1,7 +1,8 @@
 ![Header](./github-header-image.png)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=378B01&random=false&width=435&lines=Marco+Parola;Ph.D.+%7C+AI+%7C+Computer+vision+;Tech+%7C+Antifa" alt="Typing SVG" /></a>
 
-I'm a Ph.D. candidate at the Department of Information Engineering at the University of Pisa 🎓 I'm passionate about harnessing the power of AI, deep learning, and everything tech-related to create cool stuff and solve real-world problems. 🤖
+I'm a Ph.D. candidate at the Department of Information Engineering at the University of Pisa 🎓 
 
 
 ## Tech Stack 🛠️
